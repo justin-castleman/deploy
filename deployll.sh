@@ -2460,7 +2460,7 @@ if [[ $SETUP_AMI == true ]]; then
         rm -R /tmp/deploy
     fi
     # git clone
-    git clone https://github.com/LearningLocker/deploy deploy
+    git clone https://github.com/justin-castleman/deploy deploy
 fi
 
 
